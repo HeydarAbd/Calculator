@@ -22,10 +22,9 @@ public class Calculator {
             return num1*num2*num1;
     }
     
+
     
-    
-    
-    public static double devideAgain(double num11, double num22){
+    public static double devideAgainAgain(double num11, double num22){
         return num11/num22/num11 + num22;
     }
 
