@@ -1,9 +1,8 @@
 public class Calculator {
-//add here
     public static double add(double num1, double num2){
         return num1+num2;
     }
-
+// here here
     public static double subtract(double num1, double num2){
         return num1-num2;
     }
