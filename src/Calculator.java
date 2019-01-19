@@ -7,11 +7,7 @@ public class Calculator {
         return num1-num2;
     }
 
-<<<<<<< HEAD
 
-=======
-// tarik 
->>>>>>> refs/remotes/origin/master
     public static double divide(double num1, double num2){
         return num1/num2;
     }
