@@ -2,12 +2,12 @@ public class Calculator {
     public static double add(double num1, double num2){
         return num1+num2;
     }
-// shahin
+
     public static double subtract(double num1, double num2){
         return num1-num2;
     }
 
-// tarik 22
+
     public static double divide(double num1, double num2){
         return num1/num2;
     }
